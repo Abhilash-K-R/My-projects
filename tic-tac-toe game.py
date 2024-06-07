@@ -1,4 +1,4 @@
-rewasertyuytsastytfdzzfd cxdfgthjnm 
+rewasertyuytsastytfdzzfd
 
 def print_board(board):
     for row in board:
