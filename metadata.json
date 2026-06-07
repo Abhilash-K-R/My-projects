@@ -1,0 +1,6 @@
+{
+  "name": "Simple Interest Calculator",
+  "description": "An offline-capable Simple Interest Calculator with calculation history, date period computation, dark mode support, and PDF exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
